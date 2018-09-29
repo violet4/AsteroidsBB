@@ -1,0 +1,39 @@
+Time Spent on Project
+
+1-14	Using For-Next Function	2 ½ Hours
+	I made the computer make about 100 ships, and during the main loop, they all went flew up.  When any of them hit the top of the screen, it went back to the bottom.  Other assorted programs.
+
+1-15	Moving through space-stars and ship	3 ½ Hours
+
+	I made a ship fly faster and faster and depending on the speed of the ship, stars flew back as fast as the ship flew forward.  When ship got to top of screen, it went back to the bottom and kept flying. When the ship got to its top speed, it went back to 0 and the stars went backwards slowly again also.  Also made mouse cursor a ship using MouseX() and MouseY() functions.
+
+1-16 	More of function For-Next	1 Hour
+
+I wrote numbers and plotted them on a line, and made a ‘ladder’.  Other assorted programs.
+
+1-17	Creating Asteroids	2 ½ Hours
+
+	I made asteroids fly, completely random colors, directions, sizes, etc.  Stars were added in the background.  More work on the ship, and now it can shoot a simple dot.  The ship still can’t rotate.
+
+1-21	Making a ship shoot	3 ½ Hours
+
+	I made a ship shoot, but I didn’t get it to destroy an asteroid yet.  I also made asteroid and ship at same time.  I also made it make an asteroid bounce off of the walls.
+
+1-24	Attempting to rotate	1 ½ Hours
+
+	I attempted to make a ship rotate, and followed out of my Blitz Basic book for help.  I did not succeed in making a ship rotate without going blurry.
+
+2-6	Continue ImagesCollide()	2 ½ Hours
+
+	I continuously attempt to make ImagesCollide() work…instead, I made it so if you were to hold down the space bar, the bullets would slowly come out.  And, if you just push spacebar many times, it will shoot however many times the spacebar is pressed.
+
+2-7	Continue ImagesCollide()	2 ½ Hours
+I continued to work on ImagesCollide().  I made it so that when the bullet hit the asteroid, something happened, but it wasn’t quite what I wanted.  The game ended and said that the image does not exist.  
+
+2-8	Finished Project	3 Hours
+
+	I finally finished my project.  I made each asteroid and every bullet check the collisions between them.  I also added in the stars, and made a score.  Only one bullet can be shot at a time.  Every time a bullet hits an asteroid, 20 points are added.  For every bullet that is missed and goes off-screen, 10 points are taken.
+
+2-9	Extra Details	1 Hour
+
+	I made asteroids appear more frequently, and other adjustments.
