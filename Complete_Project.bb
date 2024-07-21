@@ -1,6 +1,6 @@
 Graphics 800,600,32,3
 Const ESCKEY = 1, SPACEBAR = 57, UPKEY = 200, LEFTKEY = 203, DOWNKEY = 208, RIGHTKEY = 205
-AppTitle "Asteroids::By Kyle Eldridge"
+AppTitle "Asteroids::By Violet Eldridge"
 AutoMidHandle True
 asdf=LoadImage("images/asteroid.bmp")
 ScaleImage asdf,0.5,0.5
